@@ -1,0 +1,161 @@
+- !<AssetImportMetadata/accd7cd2-becc-4f71-8618-11482c116d52>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 2501dd4e-4018-4e11-8f73-4d15d99d4e90
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 2501dd4e-4018-4e11-8f73-4d15d99d4e90
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> f26146bd-b453-407a-a1d5-4bcc3ea5dd59
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/f26146bd-b453-407a-a1d5-4bcc3ea5dd59>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 1031a360-3abf-456d-8753-e6d14ccc92f4
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    aiText: false
+    answerStatusText: false
+    arrowText: false
+    choiceText: false
+    completeIconText: false
+    completionBadgeText: false
+    feedbackText: false
+    finalPitchText: false
+    iconText: false
+    impactText: false
+    instructionText: false
+    keyboardFrameBottom: false
+    keyboardFrameLeft: false
+    keyboardFrameRight: false
+    keyboardFrameTop: false
+    keyboardHologram: false
+    modeText: false
+    monitorFrameBottom: false
+    monitorFrameLeft: false
+    monitorFrameRight: false
+    monitorFrameTop: false
+    monitorHologram: false
+    monitorLabel: false
+    monitorPanel: false
+    nextObjectText: false
+    objectLabel: false
+    objectPromptText: false
+    progressBarFill: false
+    progressText: false
+    reticleRing: false
+    reticleText: false
+    safetyIconText: false
+    scanBeam: false
+    scanText: false
+    scoreText: false
+    soundStatusText: false
+    timerText: false
+    titleText: false
+    useCaseText: false
+    welcomeText: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - titleText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      welcomeText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      instructionText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      objectLabel: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      arrowText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      progressText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      feedbackText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      choiceText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      scoreText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      objectPromptText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      modeText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      aiText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      answerStatusText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      scanText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      reticleText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      impactText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      timerText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      useCaseText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      iconText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      safetyIconText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      completeIconText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      nextObjectText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      monitorLabel: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      monitorPanel: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      scanBeam: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      keyboardFrameTop: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      keyboardFrameBottom: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      keyboardFrameLeft: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      keyboardFrameRight: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      monitorFrameTop: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      monitorFrameBottom: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      monitorFrameLeft: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      monitorFrameRight: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      progressBarFill: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      soundStatusText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      finalPitchText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      keyboardHologram: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      monitorHologram: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      reticleRing: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      completionBadgeText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.Text titleText
+    - // @input Component.Text welcomeText
+    - // @input Component.Text instructionText
+    - // @input Component.Text objectLabel
+    - // @input Component.Text arrowText
+    - // @input Component.Text progressText
+    - // @input Component.Text feedbackText
+    - // @input Component.Text choiceText
+    - // @input Component.Text scoreText
+    - // @input Component.Text objectPromptText
+    - // @input Component.Text modeText
+    - // @input Component.Text aiText
+    - // @input Component.Text answerStatusText
+    - // @input Component.Text scanText
+    - // @input Component.Text reticleText
+    - // @input Component.Text impactText
+    - // @input Component.Text timerText
+    - // @input Component.Text useCaseText
+    - // @input Component.Text iconText
+    - // @input Component.Text safetyIconText
+    - // @input Component.Text completeIconText
+    - // @input Component.Text nextObjectText
+    - // @input Component.Text monitorLabel
+    - // @input SceneObject monitorPanel
+    - // @input SceneObject scanBeam
+    - // @input SceneObject keyboardFrameTop
+    - // @input SceneObject keyboardFrameBottom
+    - // @input SceneObject keyboardFrameLeft
+    - // @input SceneObject keyboardFrameRight
+    - // @input SceneObject monitorFrameTop
+    - // @input SceneObject monitorFrameBottom
+    - // @input SceneObject monitorFrameLeft
+    - // @input SceneObject monitorFrameRight
+    - // @input SceneObject progressBarFill
+    - // @input Component.Text soundStatusText
+    - // @input Component.Text finalPitchText
+    - // @input SceneObject keyboardHologram
+    - // @input SceneObject monitorHologram
+    - // @input SceneObject reticleRing
+    - // @input Component.Text completionBadgeText
